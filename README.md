@@ -11,12 +11,12 @@ $ git clone https://github.com/proxyport/scrapy-proxyport-example
 $ cd scrapy-proxyport-example
 $ python -m venv env
 $ source env/bin/activate
-$ pip install -r requirements.pip 
+$ pip install -r requirements.pip
 ```
 
 ## Set API Key
 
-Open `scrapy-proxyport-example/blog/blogsettings.py` and set your API Key to `PROXY_PORT_API_KEY` variable.
+Open `scrapy-proxyport-example/blog/blog/settings.py` and set [your API Key](https://account.proxy-port.com/scraping) to `PROXY_PORT_API_KEY` variable.
 
 ```python
 PROXY_PORT_API_KEY = '<API_KEY>'
