@@ -1,5 +1,6 @@
 The Scrapy sample project illustrates the use of the [scrapyproxyport](https://github.com/proxyport/scrapy-proxyport) middleware
 
+About <a href="https://proxy-port.com/en/scraping-proxy" target="_blank">Proxy Port</a>
 ## Prerequisites
 To run this project you will need a free API key. Get your API key <a href="https://account.proxy-port.com/scraping" target="_blank">here</a>.
 Detailed instructions <a href="https://proxy-port.com/en/scraping-proxy/getting-started" target="_blank">here</a>.
